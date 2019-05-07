@@ -17,6 +17,8 @@ jk, this is the real last one
 
 ## Contribute 
 
+plz fork this and then issue a pull
+
 ##copyright 
 
 2019 ezgeetit
