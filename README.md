@@ -16,3 +16,7 @@ jk, this is the real last one
 ## Deployment
 
 ## Contribute 
+
+##copyright 
+
+2019 ezgeetit
