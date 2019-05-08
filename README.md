@@ -21,4 +21,4 @@ plz fork this and then issue a pull
 
 ##copyright 
 
-2019 ezgeetit
+2019 ezgeetit. All rights reserved~~
